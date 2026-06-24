@@ -1,6 +1,6 @@
 # Gen Vid — Local AI Video Generator
 
-Generate short videos from text prompts using open-source AI models. Runs **fully offline** after initial model download.
+Generate short videos from text prompts using open-source AI models. Runs **fully offline** after initial model download
 
 ## Tech Stack
 
